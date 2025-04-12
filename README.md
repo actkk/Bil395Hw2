@@ -1,5 +1,3 @@
-Bil395 HW2 Ahmet Cemil Tarık Keskinkılıç 191101051
-
 
 
 Bu proje, 5 farklı programlama dilinde (Rust, Prolog, Ada, Scheme ve Perl) hesap makinesi uygulaması geliştirmeyi ve test etmeyi amaçlamaktadır.
